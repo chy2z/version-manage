@@ -11,7 +11,7 @@ public class App
     /**
      * 版本号
      */
-    public static String version="1.1";
+    public static String version="1.2";
 
     public static void main( String[] args )
     {
