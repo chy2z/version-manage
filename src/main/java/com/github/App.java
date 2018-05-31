@@ -8,6 +8,9 @@ package com.github;
 */
 public class App 
 {
+    /**
+     * 版本号
+     */
     public static String version="1.0";
 
     public static void main( String[] args )
