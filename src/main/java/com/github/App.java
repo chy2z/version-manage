@@ -11,7 +11,7 @@ public class App
     /**
      * 版本号
      */
-    public static String version="1.4";
+    public static String version="1.5.1";
 
     /**
      * 开发中版本
