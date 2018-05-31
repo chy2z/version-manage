@@ -1,4 +1,4 @@
-package com.github;
+﻿package com.github;
 
 /**
 * @Title: App
@@ -11,7 +11,7 @@ public class App
     /**
      * 版本号
      */
-    public static String version="1.0";
+    public static String version="1.1";
 
     public static void main( String[] args )
     {
