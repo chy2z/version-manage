@@ -11,10 +11,20 @@ public class App
     /**
      * 版本号
      */
-    public static String version="1.3";
+    public static String version="1.4";
+
+    /**
+     * 开发中版本
+     */
+    public static String appName="develop";
 
     public static void main( String[] args )
     {
-        System.out.println( "version:"+version );
+        if(appName.equals("develop")) {
+            System.out.println("develop version:" + version);
+        }
+        else{
+            System.out.println("master version:" + version);
+        }
     }
 }
